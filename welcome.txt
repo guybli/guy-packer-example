@@ -1,0 +1,1 @@
+hello and welcome to your ubuntu image. this will create a file for you
